@@ -1,0 +1,30 @@
+.header{
+	height: 100px;
+	background-color: red;
+}
+.wrapper{
+	overflow: hidden;
+}
+.single{
+	min-height: 400px;
+	width: 25%;
+	float: left;
+}
+.yellow{
+	background-color: yellow;
+
+}
+.blue{
+    background-color: blue;
+}
+.teal{
+    background-color: teal;
+}
+.maroon{
+	background-color: maroon;
+}
+.footer{ 
+	height: 100px;
+	background-color: black;
+
+}
